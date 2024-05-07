@@ -1,13 +1,16 @@
 
 # 이나래의 Github
 
+
 ## start now get perfect later :D
 
-<img width="100%" src="https://github.com/infinite393/infinite393/assets/58318621/aa2129b1-0d7e-4a1d-b3cf-308a5130e181"/>
+<img width="100%" src="https://github.com/infinite393/infinite393/assets/58318621/57887e20-b165-4208-9a28-37ec260468d7"/>
+<br>
 
 ![infinite393's GitHub stats](https://github-readme-stats.vercel.app/api?username=infinite393&show_icons=true)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinite393&hide_progress=true)
+
 
 ## Available Skills
 ### Languages
