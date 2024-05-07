@@ -1,16 +1,19 @@
 
 # 이나래의 Github
 
-## Hello World :D
+## start now get perfect later :D
+
 <img width="100%" src="https://github.com/infinite393/infinite393/assets/58318621/aa2129b1-0d7e-4a1d-b3cf-308a5130e181"/>
 
 
+![infinite393's GitHub stats](https://github-readme-stats.vercel.app/api?username=infinite393&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinite393&hide_progress=true)
 
 ## Available Skills
 ### Languages
 <div>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
