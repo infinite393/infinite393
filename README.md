@@ -4,7 +4,7 @@
 
 ## start now get perfect later :D
 
-<img width="100%" src="https://github.com/infinite393/infinite393/assets/58318621/57887e20-b165-4208-9a28-37ec260468d7"/>
+<img width="100%" src="https://github.com/infinite393/infinite393/assets/58318621/575ed1b2-3f5b-4f28-beef-90b32c5090b8"/>
 <br>
 
 ![infinite393's GitHub stats](https://github-readme-stats.vercel.app/api?username=infinite393&show_icons=true)
